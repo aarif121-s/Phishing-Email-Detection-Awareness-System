@@ -1,0 +1,29 @@
+From: Security Team alertssecure-update-mail.com
+To: victim@example.com
+Date: Tue, 05 May 2026 09:12:34 +0200
+Subject: ⚠️ Urgent: Your Account Will Be Locked
+Message-ID: <PH1SH001.20260505091234@secure-update-mail.com>
+X-Mailer: PHPMailer 6.5
+Content-Type: text/html; charset="UTF-8"
+X-Received: by 10.152.84.2 with SMTP id abc123; Tue, 05 May 2026 00:12:35 -0700 (PDT)
+Received-SPF: fail (google.com: domain of alerts@secure-update-mail.com does not designate 192.0.2.45 as permitted sender) client-ip=192.0.2.45;
+Authentication-Results: mx.google.com;
+       spf=fail (google.com: domain of alerts@secure-update-mail.com does not designate 192.0.2.45 as permitted sender) smtp.mailfrom=alerts@secure-update-mail.com;
+       dkim=none (no signature) header.i=none;
+       dmarc=fail (p=REJECT sp=REJECT dis=NONE) header.from=secure-update-mail.com
+
+-------- Original message --------
+Subject: ⚠️ Urgent: Your Account Will Be Locked
+From: Security Team <alerts@secure-update-mail.com>
+
+Dear User,
+
+We noticed suspicious activity on your account.
+To avoid account suspension, please verify your details immediately.
+
+👉 Verify Now: http://g00gle.com
+
+Failure to verify within 24 hours will result in permanent account lock.
+
+Regards,
+Security Team
