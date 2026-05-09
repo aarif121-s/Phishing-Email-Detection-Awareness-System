@@ -13,7 +13,7 @@ To educate employees and business owners on how to identify phishing emails, pro
 - **No interaction with attacker infrastructure** — all links and attachments were examined without execution.
 
 ## 📁 Repository Contents
-- `report/Phishing_Awareness_Report.pdf` – Full professional report.
+- `Phishing_Awareness_Report.pdf` – Full professional report.
 - `evidence/` – Raw email samples, header analysis exports, and annotated screenshots.
 - `README.md` – This file.
 
